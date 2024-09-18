@@ -1,0 +1,47 @@
+.container {
+    /*max-width: 900px;*/
+    margin: 0 auto;
+    background-color: #8fd4e6;
+    border: 1px solid #dddddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.header{
+        background-color:#404040;
+        color: white;
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        padding: 10px;
+        border: 2px solid #000;
+        border-radius: 12px;
+
+}
+.text p {
+    line-height: 1.6;
+    color: #000;
+}
+.name{
+    font-family:Papyrus;
+    font-size:40px; 
+    margin-bottom: 0;
+    padding-bottom: 0;  
+}
+nav.n1{
+    overflow: hidden;
+    width: 700px;
+    margin: auto;
+    }
+.major{
+    color:rgb(204, 204, 204);
+}
+
+a{
+    color: white;
+    text-decoration:none;
+    padding: 15px;;
+}
+a:hover{
+    color: yellow;
+}
+
